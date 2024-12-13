@@ -1,5 +1,4 @@
 Hospital Management System
-Overview
 The Hospital Management System is a console-based C++ application designed to manage hospital records for doctors and patients. It demonstrates Object-Oriented Programming (OOP) principles such as abstraction, inheritance, encapsulation, polymorphism, and exception handling. The system provides an interactive menu-driven interface to add, view, save, and load records.
 
 Features
@@ -11,7 +10,7 @@ OOP Concepts: Uses inheritance, polymorphism, encapsulation, and abstraction.
 Exception Handling: Handles file I/O errors and invalid inputs gracefully.
 How to Run
 
-Requirements:
+Requirements: how to run 
 A C++ compiler (e.g., GCC, Visual Studio, or Code::Blocks).
 Optional: An online compiler like Replit or OnlineGDB.
 Steps to Run:
